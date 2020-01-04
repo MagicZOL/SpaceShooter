@@ -7,7 +7,7 @@ Unity를 이용하여 만든 슈팅 게임입니다. <br>
 ***
 ***SpaceShooter 게임 영상*** / ***Video of the SpaceShooter game***
 
-![switch](./Image/GIF.gif)
+![SpaceShooter](./Image/GIF.gif)
 
 ***
 **게임소개**
