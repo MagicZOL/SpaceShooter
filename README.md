@@ -64,6 +64,8 @@ PlayerPrefs 저장으로 킬 수가 저장되어 게임을 껏다켜도 초기�
 Hello! <br>
 It's a shooting game made using Unity. <br>
 
+***
+
 **Introduction to the Games**
 <Ul> 1. Game start screen <br>
 On the game start screen, you must click Start to start the game. <br>
