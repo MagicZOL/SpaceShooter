@@ -12,9 +12,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d306d196f08579740a41666eabaea648, type: 3}
   m_Name: GameDataSO
   m_EditorClassIdentifier: 
-  killCount: 1
+  killCount: 22
   hp: 100
-  damage: 26.25
+  damage: 23.809525
   speed: 6.6
   equipItem:
   - itemType: 1
